@@ -1,0 +1,63 @@
+body{
+	background-image: url(../images/background.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	font-size:25px;
+	font-family:monospace;
+}
+.photo{
+	width:100%;	
+	height:100%;
+	border:10px solid #333;
+}
+h1{
+	font-size:50px;
+}
+h2{
+	font-size:40px;
+}
+h3{
+	font-size:35px;
+}
+h4{
+	font-size:30px;
+}
+.line hr{
+	font-size:50px;
+	border:5px solid;
+}
+.introduction{
+	
+}
+.category h2{
+	float:right;
+	margin-right:50px;
+}
+.contents{
+	
+}
+.contents td{
+	text-align:center;
+}
+.email{
+	width:100%;
+	border-radius:3%;
+}
+.text{
+	width:100%;
+}
+.social{
+	text-align:center;
+}
+.horizontal-list ul{
+}
+.horizontal-list li{
+	display:inline;
+	padding:10px;
+	margin-left:-10px;
+}
+.vertical-line{
+	width:10px;
+	min-height:150px;
+	background-color:#333;
+}
